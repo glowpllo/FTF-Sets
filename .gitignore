@@ -1,0 +1,12 @@
+node_modules/
+index.js
+package.json
+package-lock.json
+npm-debug.log*
+.env
+.env.*index.js
+node_modules/
+package.json
+package-lock.json
+.env
+.env.*
